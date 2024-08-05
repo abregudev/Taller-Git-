@@ -7,7 +7,7 @@ Algoritmo ArreglosP1
 	Leer datoIngresado;
 	Leer datoIngresado1;
 	Leer datoIngresado2;
-	Leer datoIngresado3;
+	Leer datoIngresado3; 
 	Leer datoIngresado4;
 	
 	Limpiar Pantalla;

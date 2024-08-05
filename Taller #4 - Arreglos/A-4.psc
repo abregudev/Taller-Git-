@@ -7,7 +7,7 @@ Algoritmo ArregloP4
 	matriz[0,2] <- 03;
 	matriz[0,3] <- 04;
 	matriz[0,4] <- 05;
-	matriz[1,0] <- 06;
+	matriz[1,0] <- 06; 
 	matriz[1,1] <- 07;
 	matriz[1,2] <- 08;
 	matriz[1,3] <- 09;

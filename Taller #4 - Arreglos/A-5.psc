@@ -7,7 +7,7 @@ Algoritmo ArregoP5
         Para j <- 0 Hasta 9 Con Paso 1 Hacer
             matriz[i,j] <- (i+1) * (j+1);
         FinPara
-    FinPara
+    FinPara 
     
     // Imprimir la tabla
     Escribir "   |  1  2  3  4  5  6  7  8  9 10";
@@ -26,10 +26,10 @@ Algoritmo ArregoP5
     // Consulta de resultados
     Repetir
         Escribir "";
-        Escribir Sin Saltar "Ingrese el número de fila (1-10) o 0 para salir: ";
+        Escribir Sin Saltar "Ingrese el nï¿½mero de fila (1-10) o 0 para salir: ";
         Leer fila;
         Si fila <> 0 Entonces
-            Escribir Sin Saltar "Ingrese el número de columna (1-10): ";
+            Escribir Sin Saltar "Ingrese el nï¿½mero de columna (1-10): ";
             Leer columna;
             Si fila >= 1 Y fila <= 10 Y columna >= 1 Y columna <= 10 Entonces
                 Escribir "El resultado es: ", matriz[fila-1,columna-1];

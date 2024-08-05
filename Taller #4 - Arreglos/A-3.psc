@@ -8,7 +8,7 @@ Algoritmo ArreglosP3
         Para i <- 2 Hasta rc(recorriendoNumero) Hacer
             Si recorriendoNumero MOD i = 0 Entonces
                 esPrimo <- Falso;
-                i <- recorriendoNumero;  
+                i <- recorriendoNumero;   
             FinSi;
         FinPara;
         
