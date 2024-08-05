@@ -9,7 +9,7 @@ Algoritmo ArreglosP2
 		arrayNumbers[numeroimpar] <- numeroimpar;
 		
 		
-		si numeroimpar > 0 Entonces
+		si numeroimpar > 0 Entonces 
 			Escribir arrayNumbers[numeroimpar], ", " Sin Saltar;
 		FinSi
 		

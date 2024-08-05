@@ -10,7 +10,7 @@ Algoritmo CicloP7
 	
 	Escribir "Bienvenido ", usuario , "!";
 	Escribir " ";
-	
+	 
 	Escribir "1: Ingresar al parqueadero";
 	Escribir "2: Retirar del parqueadero";
 	Escribir "3: Consultar Vehiculo";

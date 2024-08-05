@@ -8,7 +8,7 @@ Algoritmo CicloP2
         espacios <- altura - fila;
         columna <- 1;
         
-        Mientras columna <= altura Hacer
+        Mientras columna <= altura Hacer 
             Si columna <= espacios Entonces
                 Escribir " " Sin Saltar;
             Sino

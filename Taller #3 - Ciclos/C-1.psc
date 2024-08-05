@@ -8,7 +8,7 @@ Algoritmo CicloP1
 	Para b <- 1 hasta a Hacer
 		Para c <- 1 hasta b Hacer
 			Si c = 1 Entonces
-				Escribir "*" Sin Saltar;
+				Escribir "*" Sin Saltar; 
 			SiNo
 				Escribir "*" Sin Saltar;
 			FinSi
