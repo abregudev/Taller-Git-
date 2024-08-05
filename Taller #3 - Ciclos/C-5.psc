@@ -7,9 +7,9 @@ Algoritmo CicloP5
 	
 	Mientras seleccionUsuario < 3 Hacer
 		Limpiar Pantalla;
-		
+		 
 		Escribir "Menu de usuario";
-		Escribir "1. Captura de nombre";
+		Escribir "1. Captura de nombre"; 
 		Escribir "2. Saludar persona";
 		Escribir "3. Salir de sistema";
 		leer seleccionUsuario;

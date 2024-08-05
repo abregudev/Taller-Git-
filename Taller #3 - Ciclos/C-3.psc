@@ -11,7 +11,7 @@ Algoritmo CicloP3
         Para j <- 1 Hasta espacios Con Paso 1 Hacer
             Escribir Sin Saltar " ";
         FinPara
-        
+         
         Para j <- 1 Hasta estrellas Con Paso 1 Hacer
             Escribir Sin Saltar "*";
         FinPara

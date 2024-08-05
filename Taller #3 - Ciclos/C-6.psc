@@ -1,11 +1,11 @@
 Algoritmo CicloP6
-	// Se está creando una aplicación que va a estar conectada 
-	// con un prototipo que permita almacenar contactos telefónicos 
+	// Se estï¿½ creando una aplicaciï¿½n que va a estar conectada 
+	// con un prototipo que permita almacenar contactos telefï¿½nicos 
 	// en el dispositivo. Para ello cada contacto debe contener nombre 
-	// completo, teléfono y organización. Se requiere que la aplicación
-	// permita añadir 3 contactos verificando que el número no esté almacenado, 
+	// completo, telï¿½fono y organizaciï¿½n. Se requiere que la aplicaciï¿½n
+	// permita aï¿½adir 3 contactos verificando que el nï¿½mero no estï¿½ almacenado, 
 	// buscar contactos almacenados y eliminar contactos si el usuario lo requiere
-	// Recuerde que el sistema debe terminar cuando el usuario así lo indique.
+	// Recuerde que el sistema debe terminar cuando el usuario asï¿½ lo indique.
 	
 	Definir primerNombreC, primerContacto, primerOrganizacion, segundoNombreC, segundoContacto, segundoOrganizacion, tercerContacto, tercerNombreC, tercerOrganizacion Como Caracter;
 	Definir opcionUsuario Como Entero;
@@ -28,7 +28,7 @@ Algoritmo CicloP6
 			Escribir "1. Ingrese telefono: ";
 			Leer primerContacto;
 			
-			Escribir "1. Ingrese Organizacion: ";
+			Escribir "1. Ingrese Organizacion: "; 
 			Leer primerOrganizacion;
 			
 			Limpiar Pantalla;

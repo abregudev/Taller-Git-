@@ -7,4 +7,4 @@ Algoritmo CicloP4
 	Para numeroRecorrido <- 1 Hasta 10 Hacer
 		Escribir numeroRecorrido, " x ", numeroUsuario, ": ", numeroRecorrido * numeroUsuario;
 	FinPara
-FinAlgoritmo	
+FinAlgoritmo	 
