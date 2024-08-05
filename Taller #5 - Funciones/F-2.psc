@@ -3,7 +3,7 @@ SubProceso respuesta <- validarEdad(e)
 		Escribir "Usted es mayor de edad.";
 		
 	SiNo
-		Escribir "Usted aún es un niño(a).";
+		Escribir "Usted aï¿½n es un niï¿½o(a).";
 	FinSi
 FinSubProceso
 
@@ -11,7 +11,7 @@ Algoritmo FuncionesP2
 	Definir e Como Entero;
 	
 	Escribir "Ingrese su edad: ";
-	Leer e;
+	Leer e; 
 	
 	Escribir validarEdad(e);
 FinAlgoritmo
